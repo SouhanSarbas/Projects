@@ -1,0 +1,6 @@
+#Lexical Analyzer
+
+This C Program Extracts Lexeme and Tokens from the input C-file.
+It can identify tokens such as keyword, multiple-line-comment, single-line-comment, identifier,
+string literal, float literal, integer literal, character literal,
+operator, special character, etc.
