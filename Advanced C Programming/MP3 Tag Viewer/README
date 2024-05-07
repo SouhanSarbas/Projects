@@ -1,0 +1,4 @@
+#MP3 Tag Viewer & Editor
+
+This Project is based on ID3 v2 MP3 file format standards.
+This C Program is to extract tag details from header file and also to edit them. 
