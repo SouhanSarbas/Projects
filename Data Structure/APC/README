@@ -1,0 +1,6 @@
+#APC - Arbitrary Pricision Calculator.
+
+This C program is a Calculator that can perform basic arithmetic operations on large numbers.
+usual calculation answers in exponential forms. but this program gives the result in exact digits.
+This program uses linked list for each digit for operation.
+the division uses continuous subtraction. So its very slow for division.
