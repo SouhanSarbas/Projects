@@ -1,0 +1,11 @@
+#Address Book
+
+This Project use C program to edit .CSV file.
+
+Here the CSV file contains Contact details.
+first entry is Total No. of Contacts.
+Followed by a contact in each line.
+a contact has Name, Mobile No., Email Id and Address.
+
+This Program can view, search, add, edit and delete contacts
+
